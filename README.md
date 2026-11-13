@@ -15,10 +15,12 @@ The SPI path used in the previous version has been physically tested on an A1706
 
 RU:
 T1 Backlight Control 0.2.1
-Запуск подсветки клавиатуры с дохлым чипом Т1 для Win10
+
+Запуск подсветки клавиатуры с дохлым чипом Т1 для Win10.
+
 Под Мас сделаю когда-нибудь позже...
 
-Запустите T1-Backlight-Control.exe. 
+Запустите T1-Backlight-Control.exe 
 Пять кнопок: 25%, 50%, 75%, 100%, Выкл.
 При запуске и закрытии яркость не меняется. 
 Установка зависимостей не требуется.
